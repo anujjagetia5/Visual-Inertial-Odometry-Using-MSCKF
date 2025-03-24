@@ -37,7 +37,7 @@ pip install numpy opencv-python scipy
 
 ```bash
 git clone https://github.com/anujjagetia5/Visual-Inertial-Odometry.git
-cd Visual-Inertial-Odometry-main
+cd Visual-Inertial-Odometry-Using-MSCKF-main
 ```
 
 * Ensure you have the EuRoC MAV dataset. You can download it from [here](http://projects.asl.ethz.ch/datasets/doku.php?id=kmavvisualinertialdatasets).
